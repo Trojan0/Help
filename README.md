@@ -1,6 +1,6 @@
 ## 全網最全的Trojan使用幫助教程
 
-各用戶端下載後使用簡單，添加掃碼二維碼節點即可使用，[全網最全的Trojan使用幫助教程](https://github.com/Trojan0/Help/wiki)
+[全網最全的Trojan使用幫助教程](https://github.com/Trojan0/Help/wiki)，各用戶端下載後使用簡單，添加掃碼二維碼節點即可使用
 
 1.[Trojan Windows微软使用教程](https://github.com/Trojan0/Help/wiki/Trojan-Windows%E5%BE%AE%E8%BD%AF%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
