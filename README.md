@@ -12,7 +12,7 @@
 
 Trojan软件下载，点击查看[Trojan各平臺軟件用戶端下載汇总](https://github.com/Trojan0/Help/wiki/Trojan%E5%90%84%E5%B9%B3%E8%87%BA%E8%BB%9F%E4%BB%B6%E4%B8%8B%E8%BC%89%E6%B1%87%E6%80%BB)
 
-各用戶端下載後使用簡單，添加掃碼二維碼節點即可使用[全網最全的Trojan使用幫助教程](https://github.com/Trojan0/Help/wiki/%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E7%9A%84Trojan%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+各用戶端下載後使用簡單，添加掃碼二維碼節點即可使用，[全網最全的Trojan使用幫助教程](https://github.com/Trojan0/Help/wiki/%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E7%9A%84Trojan%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 ## 推荐使用Trojan
 
