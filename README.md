@@ -14,6 +14,7 @@
 
 Trojan软件下载，点击查看[Trojan各平臺軟件用戶端下載汇总](https://github.com/Trojan0/Help/wiki/Trojan%E5%90%84%E5%B9%B3%E8%87%BA%E8%BB%9F%E4%BB%B6%E4%B8%8B%E8%BC%89%E6%B1%87%E6%80%BB)
 
+<p>Telegram群组：<a href="http://t.me/Tr0jancom" target="_blank">http://t.me/Tr0jancom</a></p>
 
 ## 推荐使用Trojan
 
