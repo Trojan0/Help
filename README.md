@@ -20,5 +20,5 @@ Trojan软件下载，点击查看[Trojan各平臺軟件用戶端下載汇总](ht
 
 <p><a href="https://trojan0.github.io/" target="_blank">推荐使用Trojan抗封鎖協定</a></p>
 <a href="https://trojan0.github.io/">
-<img border="0" src="https://raw.githubusercontent.com/Trojan0/Help/master/img/tj.png" />
+<img border="0" src="https://help.tr0jan.com/img/tj.png" />
 </a>
